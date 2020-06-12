@@ -8,7 +8,7 @@ I tried two ways when mapping population density: one is simple but boring with 
 The second part is to plot the heat map. Folium has leaflet external plugins, which could generate them. I think the hardest parts are to figure out the data structure required for heat map and create list comprehension after cleaning up the raw data. 
 
 ## How to use
-Run the `Animated heat map combined with choropleth map.ipynb` and all the data needed are stored in `/data` and `/shanghai`.
+Run the `Animated heat map combined with choropleth map.ipynb` and all the data needed are stored in `/data`.
 
 ## Additional Information
 
